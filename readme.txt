@@ -1,7 +1,8 @@
-# didactic-mod
+# fractalmap Minetest mod
 By Delaroyas
 
-Just random code I write to learn minetest lua programming
+Just simple fractal generator for Mintest 
+First commit 2016-02-07
 
 
 License of source code:
