@@ -1,7 +1,7 @@
 # fractalmap Minetest mod
 By Delaroyas
 
-Just simple fractal generator for Mintest 
+Just simple fractal generator for Minetest 
 First commit 2016-02-07
 
 
